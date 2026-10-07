@@ -48,22 +48,13 @@ the terms under which the third-party components were received.
 
 ## Requirements
 
-Python 3.10 or later, with:
+Python 3.10 or later
 
-```
-torch
-torchvision
-numpy
-scipy
-scikit-learn
-pandas
-matplotlib
-```
-
+## Installation
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install torch torchvision numpy scipy scikit-learn pandas matplotlib
+pip install -r requirements.txt
 ```
 
 ## Datasets
