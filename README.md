@@ -1,8 +1,6 @@
 # S2-WEF: Dynamic Free-Rider Detection in Cross-Silo Federated Learning
 
-## Paper
-
-- https://arxiv.org/abs/2604.04611
+**Note:** Author and publication information is temporarily omitted to preserve anonymity during peer review.
 
 ## Repository layout
 
@@ -120,17 +118,3 @@ Detection:
 | `random_seed` | integer | Seeds NumPy, PyTorch and the standard library |
 | `verbose` | `yes`, `no` | Whether the per-client score lists are printed |
 
-## Citation
-
-```bibtex
-@misc{nakamura2026s2wef,
-  title         = {Dynamic Free-Rider Detection in Cross-Silo Federated
-                   Learning via Simulated Attack Patterns},
-  author        = {Nakamura, Motoki},
-  year          = {2026},
-  eprint        = {2604.04611},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.LG},
-  url           = {https://arxiv.org/abs/2604.04611}
-}
-```
